@@ -8,19 +8,7 @@
 	"font_size": 15.0,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
-	"ignored_packages":
-	[
-		"JSLint",
-		"Vintage",
-		"PHP",
-		"shopify-liquid",
-		"Function Name Display"
-	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
+	"indent_guide_options":	[ "draw_normal", "draw_active" ],
 	"open_files_in_new_window": false,
 	"open_folders_in_new_window": false,
 	"remember_open_files": true,
